@@ -4,23 +4,28 @@
   </a>
   <div style="display: inline_block">
     <p align="center">
-      <a href="#">
-      <img align="center" alt="Logo do Go" height="30" width="40" title="Go" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/go/go-original.svg">
-      </a>
-      <a href="#">
-      <img align="center" alt="Logo do Python" height="30" width="40" title="Python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-      </a>
-      <a href="#">
-      <img align="center" alt="Logo do Linux" height="30" width="40" title="Linux" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/linux/linux-original.svg">
-      </a>
-      <a href="#">
-      <img align="center" alt="Logo do HTML5" height="30" width="40" title="HTML5" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-      </a>
-      <a href="#">
-      <img align="center" alt="Logo do CSS3" height="30" width="40" title="CSS3" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-      </a>
-
-  
-
-    
-</div> 
+      <div>
+        <a href="#">
+        <img align="center" alt="Logo do Go" height="50" width="60" title="Go" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/go/go-original.svg">
+        </a>
+        <a href="#">
+        <img align="center" alt="Logo do Python" height="50" width="60" title="Python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+        </a>
+      </div>
+      <div>
+        <a href="#">
+        <img align="center" alt="Logo do Linux" height="50" width="60" title="Linux" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/linux/linux-original.svg">
+        </a>
+        <a href="#">
+        <img align="center" alt="Logo do HTML5" height="50" width="60" title="HTML5" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+        </a>
+      </div>
+      <div>
+        <a href="#">
+        <img align="center" alt="Logo do CSS3" height="50" width="60" title="CSS3" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+        </a>
+        <a href="#">
+        <img align="center" alt="Logo do JavaScript" height="30" width="40" title="JavaScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+        </a>
+      </div>   
+</div>
