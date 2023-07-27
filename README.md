@@ -1,16 +1,26 @@
-### Hi there 👋
+<div align="center">
+  <a href="#">
+    <img height="190rem" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bmshema&langs_count=6&layout=compact&title_color=007acc&icon_color=007acc&text_color=007acc&bg_color=00000000&border_radius=15&border_color=00000000&hide=jupyter%20notebook"/>
+  </a>
+  <div style="display: inline_block">
+    <p align="center">
+      <a href="#">
+      <img align="center" alt="Logo do Go" height="30" width="40" title="Go" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/go/go-original.svg">
+      </a>
+      <a href="#">
+      <img align="center" alt="Logo do Python" height="30" width="40" title="Python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+      </a>
+      <a href="#">
+      <img align="center" alt="Logo do Linux" height="30" width="40" title="Linux" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/linux/linux-original.svg">
+      </a>
+      <a href="#">
+      <img align="center" alt="Logo do HTML5" height="30" width="40" title="HTML5" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+      </a>
+      <a href="#">
+      <img align="center" alt="Logo do CSS3" height="30" width="40" title="CSS3" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+      </a>
 
-<!--
-**bmshema/bmshema** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    
+</div> 
