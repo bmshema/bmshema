@@ -1,6 +1,6 @@
 <div align="center">
   <a href="#">
-    <img height="190rem" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bmshema&langs_count=6&layout=compact&title_color=c7003e&icon_color=c7003e&text_color=c7003e&bg_color=00000000&border_radius=15&border_color=00000000&hide=jupyter%20notebook"/>
+    <img height="190rem" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bmshema&langs_count=6&layout=compact&title_color=17df84&icon_color=17df84&text_color=17df84&bg_color=00000000&border_radius=15&border_color=00000000&hide=jupyter%20notebook"/>
   </a>
   <div style="display: inline_block">
     <p align="center">
