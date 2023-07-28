@@ -4,22 +4,22 @@
   </a>
   <div style="display: inline_block">
     <p align="center">
-      <a href="#">
+      <a href="https://go.dev/">
       <img align="center" alt="Logo do Go" height="50" width="60" title="Go" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/go/go-original.svg">
       </a>
-      <a href="#">
+      <a href="https://www.python.org/">
       <img align="center" alt="Logo do Python" height="50" width="60" title="Python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
       </a>
-      <a href="#">
+      <a href="https://github.com/torvalds/linux">
       <img align="center" alt="Logo do Linux" height="50" width="60" title="Linux" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/linux/linux-original.svg">
       </a>
-      <a href="#">
+      <a href="https://html.com/">
       <img align="center" alt="Logo do HTML5" height="50" width="60" title="HTML5" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
       </a>
-      <a href="#">
+      <a href="https://css-tricks.com/">
       <img align="center" alt="Logo do CSS3" height="50" width="60" title="CSS3" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
       </a>
-      <a href="#">
+      <a href="https://www.javascript.com/">
       <img align="center" alt="Logo do JavaScript" height="50" width="60" title="JavaScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
       </a>
 </div>
